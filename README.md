@@ -1,61 +1,40 @@
-📊 Financial Literacy and Socio-Demographic Determinants in Italy
-This project investigates the level of financial literacy in Italy and how socio-demographic characteristics influence individuals' financial behaviours, knowledge, and decision-making abilities.
+# 📊 Financial Literacy and Socio-Demographic Determinants in Italy 🇮🇹
 
-🧠 Context
-Financial literacy is a critical skill for individual and household economic well-being. It enables better decision-making regarding saving, investment, credit use, and retirement planning, helping to reduce economic instability and social inequality.
+## 🔍 Context
 
-Despite its importance, Italy consistently ranks among the lowest in financial literacy across Europe and OECD countries. This knowledge gap hampers citizens' ability to manage risk, plan for the future, and benefit from financial opportunities.
+Financial literacy is essential for economic well-being, enabling better decisions on saving, investing, credit use, and retirement planning. Italy ranks low in financial literacy among OECD countries, affecting individuals' ability to manage risks and plan for the future.
 
-📉 The Problem
-Many Italians struggle with basic financial concepts such as compound interest and risk diversification.
+## ⚠️ Problem
 
-A lack of financial competence leads to poor economic choices, over-indebtedness, and insecurity regarding long-term financial stability.
+- Many struggle with concepts like compound interest and risk diversification.
+- Low financial competence leads to poor choices and insecurity.
+- Awareness campaigns alone are not enough.
 
-Existing efforts, such as awareness campaigns, have proven insufficient in addressing these structural deficiencies.
+## 🎯 Objectives
 
-📌 Project Objectives
-This project broadens the analysis by examining how socio-demographic variables influence:
+This project studies how socio-demographic factors influence:
 
-Financial knowledge
+- Financial knowledge
+- Risk attitudes
+- Openness to financial products
+- Investment strategies
+- Retirement preparedness
+- Daily financial management
 
-Risk attitudes
+## 📂 Dataset
 
-Openness to financial products
+Data is from the FinanciaLiteracy.csv, the dataset available in this repository!
 
-Long-term investment strategies
+## 🛠 Methodology
 
-Retirement preparedness
+- Data preprocessing (cleaning, encoding)
+- Exploratory data analysis
+- Predictive modeling of financial behaviors
+- Model evaluation and interpretation
 
-Daily financial behaviours (e.g., budgeting, paying bills, saving)
+## ❓ Research Questions
 
-🗂 Dataset
-We use the Financial Literacy dataset, accessible in the repository. 
+- How do age, education, income, and location affect financial literacy?
+- What variables predict positive financial behavior?
+- How can policies address literacy gaps?
 
-🛠 Methodology
-Data Preprocessing: Cleaning, encoding categorical variables, handling missing values.
-
-Exploratory Analysis: Descriptive statistics and correlation analysis.
-
-Modeling: Construction and comparison of predictive models to identify the socio-demographic drivers of financial behaviour.
-
-Evaluation: Model performance assessed using classification metrics and interpretability tools.
-
-🎯 Expected Outcomes
-Identify population segments most at risk of poor financial behaviour.
-
-Understand the key socio-demographic predictors of sound financial decision-making.
-
-Generate evidence-based policy recommendations, such as:
-
-Context-sensitive financial education in schools.
-
-Personalized adult learning programs.
-
-Incentives for long-term financial planning and risk awareness.
-
-❓ Key Research Questions
-How do factors like age, education, income, or geographic location affect financial literacy?
-
-Which variables are the strongest predictors of positive or negative financial behaviour?
-
-What interventions can help close the financial literacy gap in Italy?
